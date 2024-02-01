@@ -1,4 +1,5 @@
-package model;
+package com.example.springonetoonemapping.springonetoonemapping;
+
 
 import jakarta.persistence.*;
 import lombok.Getter;
